@@ -11,9 +11,9 @@ python3.9 -m venv .venv
 
 
 # Installation dependency
-pip install "pyautogen[teachable]"
-pip install pymemgpt
-pip install python-dotenv
+pip install "pyautogen[teachable]" <br>
+pip install pymemgpt <br>
+pip install python-dotenv <br>
 
 # Enter you open ai key in .env and OAI_CONFIG_LIST
 
